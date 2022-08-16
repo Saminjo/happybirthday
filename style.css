@@ -1288,8 +1288,8 @@ audio {
 	font-family: 'Signika', sans-serif;
 	font-size: 30px;
 	text-transform: uppercase;
-	color: #ffffff;
-	text-shadow: 2px 2px 2px rgb(0, 0, 0);
+	color: #611a4c;
+	/* text-shadow: 2px 2px 2px rgb(0, 0, 0); */
 	display: none;
 	font-weight: bold;
 }
